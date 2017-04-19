@@ -1,0 +1,101 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.105 seconds
+Platform assembly: C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\duart\Desktop\Labirinto v2\Exports\Labirint v2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.287660 ms
+@ OnLevelFinishedLoading Level:Lobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1828 -> priority: 1 
+  Thread -> id: e88 -> priority: 1 
+@ JoinGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+@ OnClientEnterLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+@ OnClientEnterLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+@ UI SetAllButtons
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.551093 ms
+@ OnLevelFinishedLoading Level:Multiplayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+@ OnClientExitLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+@ OnClientExitLobby
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1031.
+Total: 0.634635 ms (FindLiveObjects: 0.051318 ms CreateObjectMapping: 0.029935 ms MarkObjects: 0.539269 ms  DeleteObjects: 0.013684 ms)
+
+Failed to spawn server object, assetId=28db974602a018b468b14e4ba5fbdec5 netId=1209
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+@ NetworkCarMovement
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+@ NetworkCarMovement
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IM LOCAL PLAYER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkCarMovement.Delay_Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Did not find target for sync message for 1209
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error @OnDestroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error @OnDestroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
